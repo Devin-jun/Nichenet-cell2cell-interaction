@@ -9,4 +9,4 @@ NicheNet主要的功能包括：
 1. 细胞互作的分析（ligands-targets&ligands-receptor）
 2. 配体调控潜力的计算（ligands）
 
-
+Browaeys, R., Saelens, W. & Saeys, Y. NicheNet: modeling intercellular communication by linking ligands to target genes. Nat Methods 17, 159–162 (2020). https://doi.org/10.1038/s41592-019-0667-5
